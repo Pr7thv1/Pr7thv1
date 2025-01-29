@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++,Cloud Computing**
 
-- 📫 How to reach me **prithvisai85@gmail.com**
+- 📫 How to reach me **prithvisai073@gmail.com**
 
 - 🔭I’m currently working on **Quantum Encryption**
 
