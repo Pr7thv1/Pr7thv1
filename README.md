@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **prithvisai85@gmail.com**
 
+- 🔭I’m currently working on **Quantum Encryption**
+
 - ⚡ Fun fact **I Love Video Games and Anime**
 
 <h3 align="left">Connect with me:</h3>
